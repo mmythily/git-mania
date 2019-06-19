@@ -1,0 +1,2 @@
+I learned to git pull before pushing because the origin's version should be the same as my local version first. 
+http://www-creators.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-25-at-17.27.15.png
